@@ -9,3 +9,7 @@ def add(item_1: int, item_2: int) -> int:
 
 def subtract(item_1: int, item_2: int) -> int:
     return item_1 - item_2
+
+
+def multiply(item_1: int, item_2: int) -> int:
+    return item_1 * item_2
