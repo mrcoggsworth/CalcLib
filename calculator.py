@@ -13,3 +13,7 @@ def subtract(item_1: int, item_2: int) -> int:
 
 def multiply(item_1: int, item_2: int) -> int:
     return item_1 * item_2
+
+
+def divide(item_1: int, item_2: int) -> int:
+    return item_1 / item_2
